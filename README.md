@@ -1,7 +1,9 @@
 # Tombstone
 Minecraft Datapack [1.20.4]
 
-Requires gamerule `keepInventory` set to `true`
+### Requires gamerules
+1. `/gamerule keepInventory true`
+2. `/gamerule doImmediateRespawn false`
 
 ## How it Works
 
